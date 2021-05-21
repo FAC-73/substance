@@ -15,8 +15,6 @@ Launch application [Github pages Deployment](https://fac-73.github.io/substance/
 ![React Portfolio](https://github.com/FAC-73/substance/blob/main/src/assets/responsive1.png?raw=true)
 <br />
 
-![React Portfolio](https://github.com/FAC-73/substance/blob/main/src/assets/responsive2.png?raw=true)
-<br />
 
 ## Table of Contents
 - [Installation](#installation)
