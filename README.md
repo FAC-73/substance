@@ -1,10 +1,19 @@
 # React.js - Portfolio
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<br /><br />
 
 A portfolio built using React.js - includes 6 Full stack developnment projects from the last 6 months of Bootcamp
 <br /><br />
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br />
-<br />
+
 Launch application [Github pages Deployment](https://fac-73.github.io/substance/)
+<br /><br />
+
+## Table of Contents
+- [Installation](#installation)
+- [License](#license)
+- [Contributing](#contributing)
+- [Questions](#questions)
+
 
 ![React Portfolio](https://github.com/FAC-73/substance/blob/main/src/assets/homepage1.png?raw=true)
 <br />
@@ -14,14 +23,6 @@ Launch application [Github pages Deployment](https://fac-73.github.io/substance/
 
 ![React Portfolio](https://github.com/FAC-73/substance/blob/main/src/assets/responsive1.png?raw=true)
 <br />
-
-
-## Table of Contents
-- [Installation](#installation)
-- [License](#license)
-- [Contributing](#contributing)
-- [Questions](#questions)
-
 
 ## Requirements
 
