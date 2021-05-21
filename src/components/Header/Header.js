@@ -6,7 +6,7 @@ function Header(props) {
   return (
     <header className="header">
 
-      <Link to="/" className={window.location.pathname === "/" ? "nav-link active" : "nav-link"}>
+      <Link to="/">
       <h1 className="title-logo">Kay Davis </h1>
         </Link>
 
